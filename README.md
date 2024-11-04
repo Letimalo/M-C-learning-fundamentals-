@@ -1,1 +1,1 @@
-# M-C-learning-fundamentals-
+# dsc-machine-learning-fundamentals-checkpoint
